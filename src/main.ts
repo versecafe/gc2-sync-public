@@ -4,3 +4,8 @@ export function greet(name: string): string {
 export function add(a: number, b: number): number {
   return a + b;
 }
+export function subtract(a: number, b: number): number {
+  return a - b;
+}
+
+export const PROBE_033458 = true;
