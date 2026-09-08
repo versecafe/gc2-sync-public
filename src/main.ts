@@ -2,5 +2,7 @@ export function greet(name: string): string {
   return `Hello, ${name}!`;
 }
 export function add(a: number, b: number): number {
-  return a + b;
+    return a + b;
 }
+
+export const QA_WS = 1;
