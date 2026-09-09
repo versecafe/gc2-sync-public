@@ -1,0 +1,2 @@
+GitCafe outbound [staging-proof:fullsync-1]
+GitHub inbound [staging-proof:fullsync-1]
