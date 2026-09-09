@@ -1,0 +1,8 @@
+name: Staging sync proof fullsync-1
+on:
+  workflow_dispatch:
+jobs:
+  proof:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo staging-sync-proof
