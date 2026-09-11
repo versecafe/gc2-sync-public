@@ -1,9 +1,9 @@
 Review fixture line 1
 Review fixture line 2
-Review fixture line 3
-Review fixture line 4
-Review fixture line 5
-Review fixture line 6
+Review fixture line 3 updated
+Review fixture line 4 updated
+Review fixture line 5 updated
+Review fixture line 6 updated
 Review fixture line 7
 Review fixture line 8
 Review fixture line 9
